@@ -7,23 +7,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5F88F693-D70
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "middlewares", "middlewares", "{3373CB49-9A79-4616-BC66-C05D8A74C0E6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{C80596FF-B39C-4A23-BD4E-3221A17E5548}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Presentation", "1-Presentation", "{C80596FF-B39C-4A23-BD4E-3221A17E5548}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Services", "2 - Services", "{0770370F-A2E9-43C3-9430-961E6E7B1A91}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Services", "2-Services", "{0770370F-A2E9-43C3-9430-961E6E7B1A91}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Application", "3 - Application", "{5E5AC1CC-C832-4318-B5BC-EC553B0BD342}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Application", "3-Application", "{5E5AC1CC-C832-4318-B5BC-EC553B0BD342}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Domain", "4 - Domain", "{09722517-5DC8-431F-AD1C-0BD2CEDB328F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Domain", "4-Domain", "{09722517-5DC8-431F-AD1C-0BD2CEDB328F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Infrastructure", "5 - Infrastructure", "{D88959C5-A3A5-4887-87A7-A0CE5AE5E72E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5-Infrastructure", "5-Infrastructure", "{D88959C5-A3A5-4887-87A7-A0CE5AE5E72E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Tests", "6 - Tests", "{8317CAB0-8CDB-44A4-909F-91B36AF40C94}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6-Tests", "6-Tests", "{8317CAB0-8CDB-44A4-909F-91B36AF40C94}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.1 - Data", "5.1 - Data", "{521528A4-8467-4F00-BB79-5F7EF9BA5B2C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.1-Data", "5.1-Data", "{521528A4-8467-4F00-BB79-5F7EF9BA5B2C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.2 - CrossCutting", "5.2 - CrossCutting", "{47F477E4-39A6-4281-9EA2-C3A0DA0DBAF2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.2-CrossCutting", "5.2-CrossCutting", "{47F477E4-39A6-4281-9EA2-C3A0DA0DBAF2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.3 - Utilities", "5.3 - Utilities", "{61DF5588-1B6D-44A3-93EC-CCF6BB791749}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.3-Utilities", "5.3-Utilities", "{61DF5588-1B6D-44A3-93EC-CCF6BB791749}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boilerplate.WebApi", "Services\Boilerplate.WebApi\Boilerplate.WebApi.csproj", "{21A667B2-E4DF-4726-955D-CFA47B974E14}"
 EndProject
@@ -52,6 +52,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boilerplate.Ui", "Presentation\Boilerplate.Ui\Boilerplate.Ui.csproj", "{F295CC41-F83B-4438-BA2B-D4E37D3F9B8F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boilerplate.Middleware.Core", "Middlewares\Boilerplate.Middleware.Core\Boilerplate.Middleware.Core.csproj", "{743BC6E3-D624-41A5-B663-657B2F40006E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionTemplate", "SolutionTemplate", "{AEF9F63E-FB54-4EA8-851A-1253E47EC993}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
